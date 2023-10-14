@@ -1,3 +1,4 @@
+<span style="font-family: 'Lucida Console';">foo</span>
 # Alessio Cangini
 
 _Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
