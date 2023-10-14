@@ -1,4 +1,4 @@
-<span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Times New Roman';">Questa dovrebbe essere in Lucida</span>
 # Alessio Cangini
 
 _Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
